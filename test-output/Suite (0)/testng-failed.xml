@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite (0)]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.wbl.JanAutomationFramework.SigninPageTest">
+        <methods>
+          <include name="testSignIn"/>
+          <include name="beforeClass"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.wbl.JanAutomationFramework.SigninPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite (0)] -->
